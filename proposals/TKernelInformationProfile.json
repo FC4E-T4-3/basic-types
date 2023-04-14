@@ -1,0 +1,24 @@
+{
+  "identifier": "",
+  "provenance": {
+    "creationDate": "",
+    "lastModificationDate": "",
+    "W3C PROV": [
+      {}
+    ]
+  },
+  "Components": {
+    "Relations": "AND",
+    "Properties": [
+      {
+        "Name": "",
+        "Type": "",
+        "Properties": [
+          {
+            "Cardinality": "1"
+          }
+        ]
+      }
+    ]
+  }
+}
